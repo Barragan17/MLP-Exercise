@@ -1,5 +1,6 @@
 # MLP-Exercise
 MLP Exercise for the machine learning second assignment
+
 Hanun Fadhil Ilyasa Sugiharto (18/423107/PA/18190)
 
 Tegar Taufik Rahman (18/423119/PA/18202)
